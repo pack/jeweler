@@ -8,7 +8,7 @@ gem "bundler", "~> 1.0"
 gem "rdoc"
 
 group :development do
-  gem "yard", "~> 0.7.4"
+  gem "yard", "~> 0.8"
   gem "rdoc"
   gem "bluecloth"
   gem "cucumber", "~> 1.1.4"
